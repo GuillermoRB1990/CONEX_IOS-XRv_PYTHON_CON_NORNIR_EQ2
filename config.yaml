@@ -1,0 +1,9 @@
+ventory:
+    plugin: SimpleInventory
+    options:
+        host_file: "C:/Users/ALAN/Desktop/DevNet_IOSX/hosts.yaml"
+        group_file: "C:/Users/ALAN/Desktop/DevNet_IOSX/groups.yaml"
+nner:
+plugin: threaded
+options:
+    num_workers: 20
